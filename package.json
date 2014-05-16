@@ -1,0 +1,25 @@
+{
+  "name": "express-isit",
+  "description": "ExpressJS middleware for naming useragents",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Bubujka/express-isit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Bubujka/express-isit.git"
+  },
+  "author": {
+    "name": "Aleksej Kamynin",
+    "email": "zendzirou@gmail.com",
+    "url": "http://bubujka.org"
+  },
+  "keywords": [
+    "useragent",
+    "vk.com",
+    "vk",
+    "facebook",
+    "odnoklassniki",
+    "express",
+    "middleware"
+  ],
+  "main": "./index.js"
+}
